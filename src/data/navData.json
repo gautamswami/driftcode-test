@@ -1,0 +1,42 @@
+{
+  "nav": [
+    {
+      "nav_name": "Home",
+      "link": "/drift-code",
+
+      "full_width": false,
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Services",
+      "link": "/tech-services",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Portfolio",
+      "link": "/drift-code-portfolio",
+
+      "full_width": true,
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Contact",
+      "link": "/contact",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Blogs",
+      "link": "/blog",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Products",
+      "link": "/drift-code-products",
+      "type": "",
+      "sub_nav": []
+    }
+  ]
+}
