@@ -138,7 +138,7 @@ const DigitalAgencyWorkflow = () => {
                       <h6 className="workflow__title">Maintainence</h6>
                       <p>
                         After the delivery, we provide you with 12 months of free
-                        maintainence.(We don't ghost you after the delivery)
+                        maintainence.(We don&apos;t ghost you after the delivery)
                       </p>
                     </div>
                   </SwiperSlide>
